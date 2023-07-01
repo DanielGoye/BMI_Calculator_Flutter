@@ -2,6 +2,8 @@
 
 ---
 
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
+
 A simple BMI calculator Android and IOS mobile application built using Flutter and Dart.
 
 > Open to contributions
