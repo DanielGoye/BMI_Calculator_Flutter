@@ -31,7 +31,7 @@ If you want to run the app locally, you need:
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/zubairehman/flutter-boilerplate-project.git
+https://github.com/DanielGoye/BMI_Calculator_Flutter.git
 ```
 
 **Step 2:**
