@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:bmi_calculator/widgets/round_icon_button.dart';
-import 'package:bmi_calculator/constants/constants.dart';
+import 'package:bmi_calculator_flutter/widgets/round_icon_button.dart';
+import 'package:bmi_calculator_flutter/constants/constants.dart';
 
 class AgeWeightContent extends StatelessWidget {
   final String label;
