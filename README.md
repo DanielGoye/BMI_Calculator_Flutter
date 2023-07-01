@@ -1,16 +1,45 @@
-# bmi_calculator_flutter
+# BMI Calculator Flutter
 
-A new Flutter project.
+---
 
-## Getting Started
+A simple BMI calculator Android and IOS mobile application built using Flutter and Dart.
 
-This project is a starting point for a Flutter application.
+> Open to contributions
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<h4 align="left">Frontend:</h4>
+<a href="https://dart.dev" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
+</a>
+&nbsp;&nbsp;
+<a href="https://flutter.dev" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
+</a>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Requirements
+
+If you want to run the app locally, you need:
+
+1. [Flutter](https://flutter.dev/) installed.
+2. Familiarity with [Dart](https://dart.dev/) and [Flutter](https://flutter.dev/). This includes how to create clusters, databases and collections in MongoDB.
+
+## Install and use
+
+**Step 1:**
+
+Download or clone this repo by using the link below:
+
+```
+https://github.com/zubairehman/flutter-boilerplate-project.git
+```
+
+**Step 2:**
+
+Go to project root and execute the following command in console to get the required dependencies:
+
+```
+flutter pub get 
+```
+
+
