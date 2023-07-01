@@ -21,7 +21,7 @@ A simple BMI calculator Android and IOS mobile application built using Flutter a
 If you want to run the app locally, you need:
 
 1. [Flutter](https://flutter.dev/) installed.
-2. Familiarity with [Dart](https://dart.dev/) and [Flutter](https://flutter.dev/). This includes how to create clusters, databases and collections in MongoDB.
+2. Familiarity with the use of [Dart](https://dart.dev/) and [Flutter](https://flutter.dev/).
 
 ## Install and use
 
