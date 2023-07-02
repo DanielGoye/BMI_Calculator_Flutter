@@ -1,9 +1,9 @@
 # BMI Calculator Flutter
 
 ---
-
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
-
+<p align="center">
+  <img src="https://github.com/DanielGoye/BMI_Calculator_Flutter/blob/main/images/bmi_1.png?raw=true"/>
+</p>
 A simple BMI calculator Android and IOS mobile application built using Flutter and Dart.
 
 > Open to contributions
