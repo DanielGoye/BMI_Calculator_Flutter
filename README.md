@@ -3,10 +3,10 @@
 ---
 <p align="center">
   <img src="https://github.com/DanielGoye/BMI_Calculator_Flutter/blob/main/images/bmi_1.png?raw=true"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/DanielGoye/BMI_Calculator_Flutter/blob/main/images/bmi_2.png?raw=true"/>
 </p>
 A simple BMI calculator Android and IOS mobile application built using Flutter and Dart.
-
-> Open to contributions
 
 ## Technologies used
 
